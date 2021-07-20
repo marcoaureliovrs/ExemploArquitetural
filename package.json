@@ -17,7 +17,7 @@
     "axios": "^0.18.1",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
-    "react-native": "0.63.1",
+    "react-native": "0.64.1",
     "react-native-gesture-handler": "^1.5.2",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-masked-text": "^1.13.0",
